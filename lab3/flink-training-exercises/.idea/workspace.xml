@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d5d1d33-bc60-4b26-b65a-ecd444f00cf5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ververica/flinktraining/exercises/datastream_java/basics/RideCleansingExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ververica/flinktraining/exercises/datastream_java/basics/RideCleansingExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ververica/flinktraining/exercises/datastream_java/process/ExpiringStateExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ververica/flinktraining/exercises/datastream_java/process/ExpiringStateExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ververica/flinktraining/exercises/datastream_java/state/RidesAndFaresExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ververica/flinktraining/exercises/datastream_java/state/RidesAndFaresExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ververica/flinktraining/exercises/datastream_java/utils/ExerciseBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ververica/flinktraining/exercises/datastream_java/utils/ExerciseBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ververica/flinktraining/exercises/datastream_java/windows/HourlyTipsExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ververica/flinktraining/exercises/datastream_java/windows/HourlyTipsExercise.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zotov1a1012&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ververica/flink-training-exercises&quot;,
+    &quot;accountId&quot;: &quot;7f55738b-7564-4270-b5ad-a914e4c36366&quot;
+  }
+}</component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3CrXhLlfbJHUredCgY4HO6itfX8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ExpiringStateTest.executor": "Run",
+    "JUnit.HourlyTipsScalaTest.executor": "Run",
+    "JUnit.HourlyTipsTest.executor": "Run",
+    "JUnit.RideCleansingScalaTest.executor": "Run",
+    "JUnit.RideCleansingTest.executor": "Run",
+    "JUnit.RidesAndFaresScalaTest.executor": "Run",
+    "JUnit.RidesAndFaresTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="RideCleansingScalaTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="flink-training-exercises" />
+      <option name="PACKAGE_NAME" value="com.ververica.flinktraining.exercises.datastream_java.basics" />
+      <option name="MAIN_CLASS_NAME" value="com.ververica.flinktraining.exercises.datastream_java.basics.RideCleansingScalaTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d5d1d33-bc60-4b26-b65a-ecd444f00cf5" name="Changes" comment="" />
+      <created>1777144781067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777144781067</updated>
+    </task>
+    <servers />
+  </component>
+</project>
